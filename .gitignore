@@ -1,0 +1,7 @@
+*.idea
+*.DS_STORE 
+.DS_STORE
+.ipynb_checkpoints
+.ipynb_checkpoints/* 
+.idea/
+
