@@ -18,5 +18,7 @@ Please feel free to add to this repo directory as needed.
 
 ### Helpful Links 
 
+[https://github.com/JamesSaxon/neighborhood_broadband/blob/master/ookla/representativeness.ipynb](Jamie's Research on FCC and Ookla data)
+
 ### Contact
  
