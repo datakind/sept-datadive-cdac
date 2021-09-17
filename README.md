@@ -33,13 +33,8 @@ Please feel free to add to this repo directory as needed.
 
 - c. What additional open data sets can you find that may be relevant to exploring construction for internet fiber or 5G? 
 
-### Contributing 
-
 ### Helpful Links 
 
 - For question 1.a : https://github.com/JamesSaxon/neighborhood_broadband/blob/master/ookla/representativeness.ipynb
 
 - For question 1.b : https://github.com/JamesSaxon/neighborhood_broadband/tree/master/fcc
-
-### Contact
- 
