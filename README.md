@@ -2,7 +2,7 @@
 
 Educational and economic opportunity, as well as health outcomes, depend on the availability of affordable, high-speed Internet access. The COVID-19 pandemic—and in particular society’s increasing reliance on reliable high-speed broadband Internet access during the crisis—has accelerated and magnified existing disparities. As the essential tasks of living move online, internet access is increasingly becoming an issue of economic opportunity.
 
-Please read the full [project brief] (https://docs.google.com/document/d/1eKyTt9VgTOVUc41Yq8Sw5lE6GWcLf1n2SeqrCDaWh24/edit#) for more information. 
+Please read the full [project brief](https://docs.google.com/document/d/1eKyTt9VgTOVUc41Yq8Sw5lE6GWcLf1n2SeqrCDaWh24/edit#) for more information. 
 
 ### Repo Directory 
 
