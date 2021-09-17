@@ -6,6 +6,8 @@ Please read the full [project brief](https://docs.google.com/document/d/1eKyTt9V
 
 ### Repo Directory 
 
+Please create a folder with your GitHub username and use it to store any code you write during the DataDive. Thank you!
+
 - `src`: Any code files or notebooks 
 
 - `examples`: Pre written examples to help you get started 
