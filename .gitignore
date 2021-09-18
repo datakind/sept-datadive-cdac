@@ -6,3 +6,7 @@
 .idea/
 .jupyter/
 .local/
+.cache/
+.ipython/
+
+*.csv
