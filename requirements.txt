@@ -1,0 +1,8 @@
+numpy==1.19.0
+pandas
+geopandas
+matplotlib
+shapely
+jupyterlab
+nbimporter
+import-ipynb
