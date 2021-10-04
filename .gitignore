@@ -7,3 +7,7 @@
 .jupyter/
 .local/
 data/
+.cache/
+.ipython/
+*.csv
+
